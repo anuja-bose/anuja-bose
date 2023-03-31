@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuja Bose
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on real time projects on react
+- 👀 I’m interested in Javascript, ReactJS and Node JS
+- 🌱 I’m currently exploring NestJS Framework
+- 💞️ I’m looking to collaborate on real time projects on react and node
 - 📫 How to reach me :
 
 <!---
